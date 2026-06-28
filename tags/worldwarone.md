@@ -50,7 +50,7 @@ Once we decided to visit Slovenia this Easter, it was mandatory that I look into
 :header: <img src="../posts/images/war-stories-of-the-rich-and-famous/image_0.png" alt="thumbnail" />
 Post Date 2024-09-04
 
-top of page...
+A question about this map from a post about the Canadians at Second Ypres led to the fascinating story of two grandfathers in the Great War. Steve McKenna contacted me and mentioned his brother-in-law Andrew Leach had spied the village of Wieltje on the map and wanted to chat.
 
 ::: 
 
