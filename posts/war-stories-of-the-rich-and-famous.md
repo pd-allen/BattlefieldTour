@@ -1,15 +1,8 @@
----
-title: War Stories of the Rich and Famous
-date: 2026-05-02
-author:
-  - name: Paul Allen 
-    email: pd-allen@rogers.com 
-description: Research and details regarding War Stories of the Rich and Famous.
-thumbnail: https://pd-allen/github.io/battletour/posts/images/war-stories-of-the-rich-and-famous	/Image_0.jpeg
----
 
 # War Stories of the Rich and Famous
-
+* [pd-allen](https://www.paulsbattlefieldtours.com/profile/pd-allen/profile)
+* 04 Sep 2024
+* 12 min read
 <img
 src="images/war-stories-of-the-rich-and-famous	/Image_0.jpeg"
 style="width:6.5in;height:4.18125in"
