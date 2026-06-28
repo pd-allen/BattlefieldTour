@@ -5,7 +5,7 @@
 * 12 min read
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_0.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_0.jpeg"
 style="width:6.5in;height:4.18125in"
 alt="A map of a city Description automatically generated" />
 
@@ -33,14 +33,14 @@ Grandfathers Frederick Leach and Robert Phillips.
 ## Andrew was born in 1944 in Middlesex, England to Douglas Leach and Violet Victoria Phillips. Andrew was the younger brother of Robin Leach, best known as host of The Lifestyles of the Rich and Famous in the 80’s and 90’s, hence the post title.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_1.png"
+src="images/war-stories-of-the-rich-and-famous/image_1.png"
 style="width:6.5in;height:6.65486in"
 alt="A screenshot of a computer Description automatically generated" />
 
 # Robert Phillips
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_2.png"
+src="images/war-stories-of-the-rich-and-famous/image_2.png"
 style="width:3.36207in;height:4.82423in"
 alt="A person with a mustache Description automatically generated" />
 
@@ -79,7 +79,7 @@ The Brigade finally reached their position south of Fontaine-au-Pire
 (red oval) at 0200 on 26 August.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_3.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_3.jpeg"
 style="width:6.5in;height:5.04306in"
 alt="A map of the battle of the great patriotic war Description automatically generated" />
 
@@ -93,7 +93,7 @@ Germans in cultivated corn fields. The Germans attacked with artillery
 and machine gun fire before launching infantry attacks around 1000.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_4.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_4.jpg"
 style="width:6.5in;height:3.87292in"
 alt="A large group of people walking on a hill Description automatically generated" />
 
@@ -120,7 +120,7 @@ twelve days of the retreat the Battalion had covered one hundred and
 fifty-six miles — all but ten on foot.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_5.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_5.jpg"
 style="width:5.82292in;height:9in"
 alt="A map of a road Description automatically generated" />
 
@@ -139,7 +139,7 @@ The Battalion suffered 50 killed, 190 Wounded, 23 Missing and 102 Shell
 Shocked for the month of April, an indication of the heavy fighting.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_6.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_6.jpg"
 style="width:6.5in;height:4.18333in"
 alt="A map of a city Description automatically generated" />
 
@@ -154,7 +154,7 @@ pass through the farm which was held as a double platoon post some
 thirty yards in advance and to the right of the front line.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_7.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_7.jpeg"
 style="width:6.5in;height:3.67014in"
 alt="A map of a city Description automatically generated" />
 
@@ -192,12 +192,12 @@ Yours very sincerely
 B Gibbs, 2Lt.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_8.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_8.jpg"
 style="width:5.11667in;height:7.35in"
 alt="A close-up of a letter Description automatically generated" />
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_9.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_9.jpg"
 style="width:5.35667in;height:7.31333in"
 alt="A piece of paper with writing Description automatically generated" />
 
@@ -209,7 +209,7 @@ Robert’s death was reported in the 04 June 1915 issue of the Devon and
 Exeter Gazette.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_10.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_10.jpg"
 style="width:6.5in;height:8.78056in"
 alt="A close-up of a person Description automatically generated" />
 
@@ -218,7 +218,7 @@ Gate at Ypres. He would have received the 1914 Star, colloquially known
 as the Mons Star, the Victory Medal and the British War Medal.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_11.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_11.jpeg"
 style="width:4.26667in;height:2.84583in"
 alt="A building with a large archway Description automatically generated with medium confidence" />
 
@@ -233,7 +233,7 @@ mother’s house or this story would never have been known.
 # Frederick Leach
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_12.png"
+src="images/war-stories-of-the-rich-and-famous/image_12.png"
 style="width:2.82647in;height:4.05322in"
 alt="A close-up of a person&#39;s face Description automatically generated" />
 
@@ -257,7 +257,7 @@ Frederick would have been 24 when he entered battle.
 ## Battle of Mons
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_13.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_13.jpeg"
 style="width:6.5in;height:3.49514in"
 alt="A map of a battle Description automatically generated" />
 
@@ -273,7 +273,7 @@ Smith-Dorrien decided that 2<sup>nd</sup> Corps could not carry on
 retreating under fire, so decided to make a stand near Le Cateau.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_3.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_3.jpeg"
 style="width:6.5in;height:5.04306in"
 alt="A map of the battle of the great patriotic war Description automatically generated" />
 
@@ -300,7 +300,7 @@ north and on 05 October, they were back at the River Aisne where they
 had been more than a month previously.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_14.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_14.jpg"
 style="width:6.73585in;height:9.30814in"
 alt="A map of a city Description automatically generated with medium confidence" />
 
@@ -312,7 +312,7 @@ casualties since arriving in France.
 ## Battle of Le Bassee
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_15.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_15.jpg"
 style="width:6.5in;height:4.91181in"
 alt="A map with letters and numbers Description automatically generated" />
 
@@ -377,14 +377,14 @@ The DCM citation reads:
 > parapet. (9.10.15)*
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_16.png"
+src="images/war-stories-of-the-rich-and-famous/image_16.png"
 style="width:6.24922in;height:6.24922in"
 alt="A close-up of a medal Description automatically generated" />
 
 A copy of the newspaper article is enclosed.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_17.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_17.jpg"
 style="width:5.76667in;height:8.44in"
 alt="A close-up of a paper Description automatically generated" />
 
@@ -393,14 +393,14 @@ commander, and commendation from his Division Commander, Major General
 Haldane:
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_18.jpeg"
+src="images/war-stories-of-the-rich-and-famous/image_18.jpeg"
 style="width:6.5in;height:8.41181in"
 alt="A close-up of several papers Description automatically generated" />
 
 A copy of the original handwritten letter from 2Lt Grece is attached.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_19.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_19.jpg"
 style="width:5.78in;height:8.19in"
 alt="A piece of paper with handwriting Description automatically generated" />
 
@@ -427,7 +427,7 @@ fortunate not to have been involved in the attack of 01 July and moved
 into the recently captured trenches at the Leipzig Salient.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_20.JPG"
+src="images/war-stories-of-the-rich-and-famous/image_20.JPG"
 style="width:6.5in;height:3.74792in"
 alt="A map with red and blue text Description automatically generated" />
 
@@ -449,7 +449,7 @@ Division) returning from the attack on Thiepval, 25/26th August 1916,
 wearing captured German trophies; Bouzincourt.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_21.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_21.jpg"
 style="width:6.5in;height:4.77778in"
 alt="A group of soldiers marching in a field Description automatically generated" />
 
@@ -463,7 +463,7 @@ October 1916 because of Wounds. He was granted the Silver War badge that
 he would have worn to “prove” that he had done his part in the war.
 
 <img
-src="images/war-stories-of-the-rich-and-famous	/Image_22.jpg"
+src="images/war-stories-of-the-rich-and-famous/image_22.jpg"
 style="width:4.55439in;height:3.41579in"
 alt="A close-up of a pin Description automatically generated" />
 
