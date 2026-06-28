@@ -30,7 +30,7 @@ Grandfathers Frederick Leach and Robert Phillips.
 
 # Andrew Leach
 
-## Andrew was born in 1944 in Middlesex, England to Douglas Leach and Violet Victoria Phillips. Andrew was the younger brother of Robin Leach, best known as host of The Lifestyles of the Rich and Famous in the 80’s and 90’s, hence the post title.
+Andrew was born in 1944 in Middlesex, England to Douglas Leach and Violet Victoria Phillips. Andrew was the younger brother of Robin Leach, best known as host of The Lifestyles of the Rich and Famous in the 80’s and 90’s, hence the post title.
 
 <img
 src="images/war-stories-of-the-rich-and-famous/image_1.png"
