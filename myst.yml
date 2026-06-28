@@ -1,13 +1,13 @@
 version: 1
 project:
-  title: My Blog
-  description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+  title: Battlefield Tours
+  description: A blog about my tours of the Battlefields.
   # thumbnail: images/profile-thumbnail.webp
   # authors:
-  #   - name: Jane Doe
-  #     email: jane.doe@example.com
+  #   - name: Paul Allen
+  #     email: pd-allen@rogers.com
   #     orcid: 0000-0000-0000-0000
-  #     url: https://example.com
+  #     url: https://pd-allen.github.com/battletor/
   #     affiliations:
   #       - Example University
   copyright: '2026'
@@ -15,7 +15,7 @@ project:
     - Blog
     - Data Science
     - Open-source Software
-  github: opengeos/myst-blog-template
+  github: pd-allen/battletour
   exclude:
     - _build
     - Thumbs.db
@@ -31,27 +31,26 @@ project:
     - README.md
   toc:
     - file: index.md
-    - file: tags/myst-markdown.md
-    - file: tags/tutorial.md
-    - file: tags/github-pages.md
+    - file: tags/worldwarone.md
+    - file: tags/worldwartwo.md
+    - file: tags/travel.md
     - file: contact.md
     - pattern: posts/*.md
       hidden: true
 site:
   options:
-    logo: logo.png
-    logo_dark: logo.png
+    logo: image1.jpeg
+    logo_dark: image1.jpeg
     favicon: fav.ico
     style: custom.css
     # analytics_google: G-XXXXXXXXXX
     folders: true
   actions:
     - title: RSS
-      url: https://opengeos.org/myst-blog-template/rss.xml
+      url: https://pd-allen.github.io/battletour/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
     footer: |
-      [GitHub](https://github.com/username) |
-      [LinkedIn](https://www.linkedin.com/in/username) |
-      [Twitter](https://twitter.com/username)
+      [GitHub](https://pd-allen/github.io/battletour) |
+      
