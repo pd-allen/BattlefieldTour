@@ -12,7 +12,7 @@ Posts tagged with **Travel**.
 
 ::::{grid} 1 1 1 1
 
-:::: {card}Rimini Ravenna And Bologna
+::: {card}Rimini Ravenna And Bologna
 :link:  /posts/rimini-ravenna-and-bologna
 :header: <img src="../posts/images/rimini-ravenna-and-bologna/image_0.jpeg" alt="thumbnail" />
 Post Date 2026-05-14
