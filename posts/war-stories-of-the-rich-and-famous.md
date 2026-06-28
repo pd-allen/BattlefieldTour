@@ -3,6 +3,7 @@
 * [pd-allen](https://www.paulsbattlefieldtours.com/profile/pd-allen/profile)
 * 04 Sep 2024
 * 12 min read
+
 <img
 src="images/war-stories-of-the-rich-and-famous	/Image_0.jpeg"
 style="width:6.5in;height:4.18125in"
