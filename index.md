@@ -63,7 +63,7 @@ Posts tagged with **WWI**.
 - [Corporal Percy Fowler, 1 June 1894 – 18 August 1916](/posts/corporal-percy-fowler-1-june-1894-18-august-1916)
 - [First Day on the Somme](/posts/first-day-on-the-somme)
 - [Lance Sgt 6537 Henry Goodfellow](/posts/lance-sgt-6537henry-goodfellow)
-- [Pre-Season Tour La Ferté-sous-Jouarre Memorial to the Missing](/posts/pre-season-tour-la-ferté-sous-jouarre-memorial-to-the-missing)
+- [Pre-Season Tour La Ferté-sous-Jouarre Memorial to the Missing](/posts/pre-season-tour-la-ferte-sous-jouarre-memorial-to-the-missing)
 - [Visiting Grandfather](/posts/visiting-grandfather)
 - [Grandfather's War](/posts/grandfather-s-war)
 - [Travel Time](/posts/travel-time)

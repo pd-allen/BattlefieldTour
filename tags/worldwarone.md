@@ -406,11 +406,11 @@ Henry Goodfellow Sr and Maria Reynolds married on 29 August 1880 and had 8 child
 ::: 
 
 ::: {card}Pre-Season Tour La Ferté-Sous-Jouarre Memorial To The Missing
-:link:  /posts/pre-season-tour-la-ferté-sous-jouarre-memorial-to-the-missing
-:header: <img src="../posts/images/pre-season-tour-la-ferté-sous-jouarre-memorial-to-the-missing/image_0.jpg" alt="thumbnail" />
+:link:  /posts/pre-season-tour-la-ferte-sous-jouarre-memorial-to-the-missing
+:header: <img src="../posts/images/pre-season-tour-la-ferte-sous-jouarre-memorial-to-the-missing/image_0.jpg" alt="thumbnail" />
 Post Date 2023-09-09
 
-Pre-Season Tour La Ferté-sous-Jouarre Memorial to the Missing...
+Pre-Season Tour La Ferté-sous-Jouarre Memorial to the Missing. Commemoration of Henry Goodfellow 2nd Suffolks...
 
 ::: 
 
