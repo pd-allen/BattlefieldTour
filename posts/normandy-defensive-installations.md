@@ -1,7 +1,7 @@
 # Normandy Defensive Installations
 
 * [pd-allen](https://www.paulsbattlefieldtours.com/profile/pd-allen/profile)
-* 4 days ago
+* 29 Jun 2026
 * 17 min read
 
 ![](images/normandy-defensive-installations/image_0.png)
