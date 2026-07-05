@@ -3,7 +3,7 @@
 * 07 Jul 2026
 * 12 min read
 
-# <img src="images/d-day-sword-beach/image_0.png"
+<img src="images/d-day-sword-beach/image_0.png"
 style="width:4.82599in;height:6.63017in" />
 
 # Introduction
