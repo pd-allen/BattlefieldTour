@@ -73,6 +73,7 @@ Posts tagged with **WWI**.
 Posts tagged with **WWII**
 
 ## Posts
+- [D Day Sword Beach](/posts/d-day-sword-beach)
 - [Normandy Defensive Installations](/posts/Normandy-Defensive-Installations)
 - [John Scholte And The Dutch Princess Irene Brigade](/posts/John-Scholte-And-The-Dutch-Princess-Irene-Brigade)
 - [The River Battles - Italy 1944](/posts/the-river-battles-italy-1944)

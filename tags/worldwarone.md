@@ -419,7 +419,7 @@ Pre-Season Tour La Ferté-sous-Jouarre Memorial to the Missing. Commemoration of
 :header: <img src="../posts/images/visiting-grandfather/image_0.jpg" alt="thumbnail" />
 Post Date 2023-09-04
 
-My sister Dale and I visited the homestead in Balsam Creek (outside North Bay, Ont) this weekend, and stopped to pay respects to our Maternal Grandfat...
+My sister Dale and I visited the homestead in Balsam Creek (outside North Bay, Ont) this weekend, and stopped to pay respects to our Maternal Grandfather William Johnston ...
 
 ::: 
 

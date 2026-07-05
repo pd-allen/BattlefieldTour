@@ -12,6 +12,14 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} D Day Sword Beach
+:link: /posts/d-day-sword-beach
+:header: <img src="../posts/images/d-day-sword-beach/image_0.png" alt="thumbnail" />
+Post Date 2026-07-07
+
+During my previous trips to Normandy, I had visited all of the D-Day beaches except Sword Beach, and I wanted to correct that oversight. Sword is the easternmost beach and probably the least explored. 
+:::
+
 ::: {card}Normandy Defensive Installations
 :link:  /posts/normandy-defensive-installations
 :header: <img src="../posts/images/normandy-defensive-installations/image_0.png" alt="thumbnail" />
