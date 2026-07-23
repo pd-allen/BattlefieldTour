@@ -12,6 +12,12 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} Uncle Les Allen in Op Totalize
+:link: /posts/uncle-les-allen-in-op-totalize
+:header: <img src="../posts/images/uncle-les-allen-in-op-totalize/image_0.jpg" alt="thumbnail" />
+Research and details regarding Uncle Les Allen in Op Totalize.
+:::
+
 ::: {card} D Day Sword Beach
 :link: /posts/d-day-sword-beach
 :header: <img src="../posts/images/d-day-sword-beach/image_0.png" alt="thumbnail" />

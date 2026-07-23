@@ -73,6 +73,7 @@ Posts tagged with **WWI**.
 Posts tagged with **WWII**
 
 ## Posts
+- [Uncle Les Allen in Op Totalize](/posts/uncle-les-allen-in-op-totalize)
 - [D Day Sword Beach](/posts/d-day-sword-beach)
 - [Normandy Defensive Installations](/posts/Normandy-Defensive-Installations)
 - [John Scholte And The Dutch Princess Irene Brigade](/posts/John-Scholte-And-The-Dutch-Princess-Irene-Brigade)
