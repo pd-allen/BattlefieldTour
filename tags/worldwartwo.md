@@ -15,7 +15,12 @@ Posts tagged with **WW2**.
 ::: {card} Uncle Les Allen in Op Totalize
 :link: /posts/uncle-les-allen-in-op-totalize
 :header: <img src="../posts/images/uncle-les-allen-in-op-totalize/image_0.jpg" alt="thumbnail" />
-Research and details regarding Uncle Les Allen in Op Totalize.
+Post Date 2026-07-23
+
+During my recent visit to Normandy, I traced the path of my Uncle Les
+Allen, a Corporal in the Mortar Platoon of the Royal Regiment of Canada.
+They landed on Juno Beach a month after D-Day and fought their way south
+in several operations leading up to Operation Tractable 8-10 Aug 1944.
 :::
 
 ::: {card} D Day Sword Beach
