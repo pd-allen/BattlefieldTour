@@ -1098,17 +1098,73 @@ returned to Balsam Creek to work for his father.
 
 ## Trucking
 
-Les and Jean settled in Balsam Creek, working for his father’s mill
-driving a truck. A photo of the giant log being hauled by Les’ truck.
+When Les and Jean returned from Europe, Les went to work for his father,
+Orillian at his mill on the North River Road. They lived in one of the
+houses that were at Orillian’s camp. Les bought a truck and went to work
+hauling logs out of the bush to the mill. In the late 1940’s, the mill
+caught fire and burned down. Some of the houses burned too. Orillian
+decided to build a new Mill a couple of miles East of Balsam Creek and
+obtained the timber rights for an area near by. A photo of the giant log
+being hauled by Les’ truck with my father Doug Allen in the foreground
+and Mel Hummel sitting on the log.
 
 <img
 src="images/uncle-les-allen-in-op-totalize/image_56.jpg"
 style="width:6.5in;height:6.58472in" />
 
-They bought land in Phelps township and planned to build a house before
-Les joined the Air Force. They moved a bunkhouse from the mill that
-served as a cottage. They visited often throughout Les’ service. They
-had 3 sons, Leslie McLeod (Mac) (1947), Ken (1950) and Rob (1958).
+Les and Jean enjoyed their life back in Phelps Township and decided to
+buy a lot on Highway 63 in an area known as Zero Corners. It was across
+the highway from the land the Women’s Institute had purchased with the
+intention of building a park to honour the retuning soldiers.
+
+Jean was active in the Women’s Institute and her status as a War Bride
+meant she was front and centre for the Memorial Park, The Women’s
+Institute vision for the park grew and came to be the place that many of
+younger members of the community enjoyed. First came the playground
+complete with swings and teeter totters, built by the men who came back
+from he war. The first event there was a community picnic. Next came the
+Ball Diamond and Les and all the other Allen boys greeted with great
+happiness. The Memorial Park was located on the forks of the North River
+and was enjoyed by all. Photo of Jean.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_57.png"
+style="width:4.85417in;height:6.25in" />
+
+The ladies of the WI held penny sales, and dinners and just about
+anything to earn enough money to build a hall. That hall was used for
+dances, dinners and many wedding celebrations. In later years, the first
+permanent library in Phelps township was set up in a back closet.
+Finally, a War Cenotaph was built to honour the men killed during the
+war. The Women’s Institute sponsored a fall fair every year. It was
+great to get time off classwork to run races, take part in competitions
+and show off our handiwork and baking.
+
+Later, after much work and penny sales, a group worked hard to build a
+permanent library that is much used by the community. Sadly, the Women’s
+Institute Hall became too unsafe to use and was torn down. The Memorial
+Park today contains the Library, Cenotaph, Volunteer Fire Hall, Baseball
+diamond, Hockey Rink and the Rec Centre, all much used by the community.
+The women who made it all happen must look down on this with so much
+pride.
+
+When so much of the “old mill” was destroyed, Les and Jen decided to
+move the old bunk house from back the North River Road to their property
+on the highway. They fixed it up nicely for their family. In 1947, their
+first son, Leslie MacLeod (Mac)was born and in 1950, Kenneth James.
+
+Jean’s parents, George and Mary MacDonald emigrated from Scotland to
+Canada to be near their only daughter. George went to work at the paper
+mill in Temiscaming Quebec, about 20 miles away. At first George and
+Mary lived with Les and Jean and George commuted to Quebec with some of
+the other men who lived in Phelps and worked for the Mill. When Les
+re-enlisted George and Mary moved to Temiscaming and rented and
+apartment just up the street from the mill. Mr and Mrs MacDonald with
+Mac and Kenny.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_58.jpg"
+style="width:6.5in;height:4.81806in" />
 
 ## RCAF
 
@@ -1127,7 +1183,7 @@ I was inducted into the Canadian Forces, 414 EW Squadron returned to
 North Bay.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_57.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_59.jpeg"
 style="width:5.25352in;height:4.56306in" />
 
 The CF101 Voodoo was sold to Canada to provide an air defence capability
@@ -1139,13 +1195,21 @@ all replaced by the CF18. The Voodoo in the background with a CF104 in
 the foreground.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_58.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_60.jpeg"
 style="width:6.5in;height:3.62778in" />
 
-Les was promoted to Corporal in Oct 1954 and Sergeant in Apr 1966.
+A photo of Les batting while playing for the RCAF team. My father, Doug
+Allen, is catching.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_59.JPG"
+src="images/uncle-les-allen-in-op-totalize/image_61.png"
+style="width:6.5in;height:7.13403in" />
+
+Les was promoted to Corporal in Oct 1954 and Sergeant in Apr 1966. Their
+third son Rob was born in 1958.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_62.JPG"
 style="width:3.02083in;height:5.19792in" />
 
 While in Centralia in 1953 Les was selected for the Queen’s Coronation
@@ -1157,17 +1221,30 @@ while 320 lined the route in the area near Canada House. In total, there
 were some 700 active members of the Canadian military involved.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_60.png"
+src="images/uncle-les-allen-in-op-totalize/image_63.png"
 style="width:5.375in;height:4.03125in" />
+
+The Coronation carriage the Canadian Honour Guard.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_64.jpg"
+style="width:6.5in;height:3.22708in" />
+
+A photo of the RCAF march past. Les is second from the right in the
+front rank.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_65.png"
+style="width:6.5in;height:4.74931in" />
 
 This is the route they marched in London.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_61.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_66.jpg"
 style="width:6.5in;height:5.2in" />
 
-Tragically, Jean passed away in Jun 1959 at the young age of 33. Les got
-remarried to Bernadette Brooks in Oct 1965.
+Tragically, Jean passed away in Jun 1959 at the young age of 33. Les
+married Bernadette Brooks in Oct 1965.
 
 After retirement from the RCAF on 01 May 1969, Les worked as a parking
 supervisor in North Bay. He passed away on 31 May 1971 at the age of 48.
@@ -1181,13 +1258,13 @@ but 52 Canadian. There are 2714 Army members, 78 Air Force, 3 Navy and
 78 Unknowns.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_62.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_67.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 A dedicated gardener keeping the grounds in top shape.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_63.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_68.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 When I visit a cemetery, I usually try to photograph all the headstones
@@ -1202,17 +1279,17 @@ causing a manpower shortage that would plague Canadians for the rest of
 the war.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_64.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_69.jpeg"
 style="width:6.5in;height:3.49583in" />
 
 As always, the grounds are immaculately kept and full of colour.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_65.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_70.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_66.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_71.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 ## Typhoon Pilots
@@ -1231,7 +1308,7 @@ operating out of B9 Airfield at Lantheuil, just south of Juno Beach.
 This allowed the Typhoons to be at the front lines in 15 minutes.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_67.png"
+src="images/uncle-les-allen-in-op-totalize/image_72.png"
 style="width:6.5in;height:4.93472in" />\
 Lantheuil Airfield was marked out on 11 Jun 1944 and construction was
 started the next day. The runway was complete on 22 Jun, and 143 Wing
@@ -1239,7 +1316,7 @@ arrived on 27 June. Due to the muddy airfield, it was decided to track
 the Runway on 05 Jul, and the work completed by 8 Jul.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_68.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_73.jpg"
 style="width:6.5in;height:4.76111in" />
 
 ### J11316 Flight Lieutenant Theodore Bugg 
@@ -1267,14 +1344,14 @@ very close to the Bridge now known as Pont des Canadians. The point
 indicates his temporary burial site.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_69.png"
+src="images/uncle-les-allen-in-op-totalize/image_74.png"
 style="width:6.5in;height:4.38264in" />
 
 In Jul 1946, his remains were reinterred in Bretteville-sur-Laize
 cemetery.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_70.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_75.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 His epitaph reads:
@@ -1290,7 +1367,7 @@ Canadiens. There is a plaque to the 4 Typhoon pilots, all RCAF Members,
 killed on 12 Aug 1944 trying to take out the Bridge.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_71.png"
+src="images/uncle-les-allen-in-op-totalize/image_76.png"
 style="width:6.5in;height:5.43194in" />
 
 Once I saw this, I had to look at the other pilots as well.
@@ -1307,7 +1384,7 @@ by Canadian Ground troops and was temporarily buried close to where he
 was found. He was later reinterred in Bretteville-sur-Laize Cemetery.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_72.png"
+src="images/uncle-les-allen-in-op-totalize/image_77.png"
 style="width:6.5in;height:3.69931in" />
 
 Ernest enlisted on 5 Oct 1939 in Edmonton, AB and initially served as a
@@ -1335,7 +1412,7 @@ wings on 9 Jul 1943 and went overseas on 9 Jan 1944. His recruitment
 picture shows how young he looked.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_73.png"
+src="images/uncle-les-allen-in-op-totalize/image_78.png"
 style="width:5.86385in;height:6.4367in" />
 
 Bretteville-sur-Laize Cemetery was established in 1944 and it is likely
@@ -1345,7 +1422,7 @@ been renumbered but his remains had not been moved. A picture of his
 original grave marker.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_74.png"
+src="images/uncle-les-allen-in-op-totalize/image_79.png"
 style="width:4.44736in;height:7.38449in" />
 
 ### J22034 Flying Officer Ronald Olaf Moen
@@ -1372,7 +1449,7 @@ artist who was at the centre of any squadron pranks.
 Ronald’s crash site.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_75.png"
+src="images/uncle-les-allen-in-op-totalize/image_80.png"
 style="width:6.5in;height:3.46389in" />
 
 Flying Officer Moen has no known grave and is commemorated on Panel 247
@@ -1387,13 +1464,13 @@ been overrun but whose airmen continued to fight in the ranks of the
 Royal Air Force.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_76.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_81.jpeg"
 style="width:5.20625in;height:3.08472in" />
 
 Ronald’s photo.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_77.png"
+src="images/uncle-les-allen-in-op-totalize/image_82.png"
 style="width:5.93676in;height:5.98883in" />
 
 Flying Officer Moen enlisted in Saskatoon SK on 24 Nov 1941 at the age
@@ -1440,3 +1517,5 @@ Cheltenham UK,1998.
 War Diaries, The Royal Regiment of Canada.
 
 Zuehlke, M, Breakout from Juno, Douglas&McIntyre, Vancouver, BC, 2011.
+
+# 
