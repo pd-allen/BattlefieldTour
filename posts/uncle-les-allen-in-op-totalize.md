@@ -16,7 +16,12 @@ in several operations leading up to Operation Tractable 8-10 Aug 1944.
 Leslie Orllian Allen was born on 07 December 1922 in Kingsville, ON, to
 Orillian Allen and Mary Alice Rawson, the sixth of eleven children. The
 last two children were twins who died in childbirth and tragically, his
-mother passed away a week later.
+mother passed away a week later. Orillian and Mary Alice with Lois and
+Reg in 1914.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_1.png"
+style="width:5.58333in;height:7.75in" />
 
 In 1927, Orillian built a grist mill on the Main Street in Kingsville.
 His Uncle Sam Quick was a carpenter on the mill. He was a successful
@@ -26,8 +31,27 @@ time, the stone inscribed with Allen was on this building, but it has
 since been removed. Orillian was quite successful at this time, but the
 depression took all of this away.
 
-On November 6, 1933, Mary Alice passed away. Orillian and his family
-decided to go North for a fresh start.
+The Allen children, circa 1931.
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_2.png"
+style="width:6.5in;height:8.66667in" />
+
+On November 6, 1933, Mary Alice passed away. Her cause of death was
+Puerperal Septicemia, prolapsed uterus and living conditions. At the
+time of her death, they were living at 11 Erie Street in Kingsville.
+Years ago, Aunt Helen told me that her mother had given birth to twins
+on Halloween Day. As Helen went out Trick or Treating, she told all her
+neighbours that her mother had had twins. By the time she got home, the
+twins had died. The timing would have been right for this to have been
+the childbirth that Mary Alice eventually died from. I have located the
+death certificate for John Allen who was born on October 31, 1933, just
+a week before his mother died.
+
+On the 1935 Voters List, Orillian was still listed as living in Essex.
+It was at about this time, after the losses of his business and his
+wife, Orillian decided to move North. We do not know if he planned to
+get into the lumber business before going North or after he got there.
 
 Orillian first went to Monetville, where his older brother Wilbur was
 living. Orillian’s oldest daughter, Lois, stayed behind to finish her
@@ -62,7 +86,12 @@ houses. Orillian could not leave his retail background behind and opened
 a small general store at the mill area. The mill operations were quite
 far from any other store, so this provided a benefit to his workers. His
 daughter, Helen, ran the store for him, in addition to looking after the
-younger children.
+younger children. Orillian in 1953, with his oldest granddaughter Diane
+Allen (Ryan).
+
+<img
+src="images/uncle-les-allen-in-op-totalize/image_3.png"
+style="width:3.22667in;height:3.44667in" />
 
 Les left school after Grade 8 and worked for Orillian, driving a truck
 to haul logs and lumber.
@@ -108,7 +137,7 @@ August 1942 as OP Jubilee. A previous
 provides the details.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_1.png"
+src="images/uncle-les-allen-in-op-totalize/image_4.png"
 style="width:6.5in;height:4.08472in" />
 
 More than 5,000 Canadians, 1000 British Commandos and 50 US Rangers were
@@ -129,27 +158,27 @@ the wall and were quickly captured. The navy couldn’t get the landing
 craft back in to evacuate, so the survivors were captured by 0830.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_2.png"
+src="images/uncle-les-allen-in-op-totalize/image_5.png"
 style="width:6.5in;height:4.53056in" />
 
 This gun position at the eastern end of the beach wreaked havoc with the
 Royals. The steepness of the cliffs is evident from the staircase.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_3.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_6.jpeg"
 style="width:6.5in;height:8.66667in" />
 
 This then and now picture shows the carnage.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_4.png"
+src="images/uncle-les-allen-in-op-totalize/image_7.png"
 style="width:6.5in;height:8.38472in" />
 
 A view of the cliffs looking towards the main port. A ferry is visible
 in the port. The main beach was just around the headlands.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_5.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_8.jpeg"
 style="width:6.5in;height:8.66667in" />
 
 Of the 554 members of the regiment who embarked on the raid, only 65
@@ -165,13 +194,13 @@ The memorial to the Royals is appropriately next to the gun emplacement
 that caused so much damage.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_6.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_9.jpeg"
 style="width:6.5in;height:4.875in" />
 
 The memorial plaque.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_7.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_10.jpeg"
 style="width:6.5in;height:4.875in" />
 
 ## Rebuilding
@@ -194,7 +223,7 @@ rebuild.
 Les, in the middle of the back row, with some of his army buddies.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_8.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_11.jpg"
 style="width:6.5in;height:4.85625in" />
 
 # Royal Regiment of Canada In UK
@@ -202,7 +231,7 @@ style="width:6.5in;height:4.85625in" />
 The organization of the Royal Regiment of Canada:
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_9.png"
+src="images/uncle-les-allen-in-op-totalize/image_12.png"
 style="width:6.5in;height:5.02222in" />
 
 Les Allen was a Corporal in charge of a three-inch mortar section in the
@@ -216,7 +245,7 @@ The Universal Carrier with a mounted machine gun. The 3-inch mortar is
 in the front right.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_10.png"
+src="images/uncle-les-allen-in-op-totalize/image_13.png"
 style="width:6.5in;height:4.99375in" />
 
 The 3-inch mortar could be broken down for a 3 man carry:
@@ -228,7 +257,7 @@ The 3-inch mortar could be broken down for a 3 man carry:
 3.  Bipod and one case of bombs (36 lbs)
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_11.png"
+src="images/uncle-les-allen-in-op-totalize/image_14.png"
 style="width:6.5in;height:6.74931in" />
 
 The High Explosive shell weighed 10 lbs and had a range of 500 to 2,800
@@ -272,7 +301,7 @@ new browser window. Hovering the mouse over a marker shows the date and
 place and clicking on the marker provides details of the daily action.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_12.png"
+src="images/uncle-les-allen-in-op-totalize/image_15.png"
 style="width:6.5in;height:3.46667in" />
 
 ## First Action -Eterville 11 July 1944
@@ -298,20 +327,20 @@ percentage of casualties were a result of direct hits on the prepared
 slit trenches.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_13.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_16.jpeg"
 style="width:6.5in;height:3.69444in" />
 
 A memorial commemorates the Royals’ first action in Normandy. The
 8<sup>th</sup> Recce Squadron also named on the monument.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_14.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_17.jpeg"
 style="width:6.5in;height:5.44653in" />
 
 The circled locations show the Royal’s actions in July 1944:
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_15.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_18.jpeg"
 style="width:6.5in;height:4.55625in" />
 
 ## Operation Atlantic – Louvigny 18 July 1944
@@ -342,7 +371,7 @@ withdrawn across the Orne River. By 0900 Louvigny had been cleared. In
 their first action, the Royals had suffered 34 killed and 77 wounded.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_16.JPG"
+src="images/uncle-les-allen-in-op-totalize/image_19.JPG"
 style="width:6.27083in;height:4.40625in" />
 
 The grateful Mayor of Louvigny sent the following letter to the Mayor of
@@ -386,7 +415,7 @@ cases the Allies shelled their villages to rubble, but Liberation was
 the only thing that mattered. Typical village destruction south of Caen.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_17.png"
+src="images/uncle-les-allen-in-op-totalize/image_20.png"
 style="width:6.5in;height:3.68681in" />
 
 There is a memorial in Louvigny to the Royals’ fallen located on a
@@ -401,25 +430,25 @@ story of the battle and commemorates the fallen. You don’t need to know
 anything about the action to acknowledge the loss.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_18.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_21.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The story of the action.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_19.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_22.jpeg"
 style="width:6.5in;height:3.93472in" />
 
 A plaque commemorates the fallen in the taking of Louvigny.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_20.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_23.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The tankers of the Fort Garry Horse are also remembered.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_21.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_24.jpeg"
 style="width:6.5in;height:8.0375in" />
 
 After the battle, the Royals moved back to Bretteville-sur-Odon and
@@ -447,7 +476,7 @@ village of Verrieres and advanced with the tanks of C Squadron
 they were attacked by anti-tank guns and dug in Tiger Tanks. In a few
 minutes, the Hussars lost 15 of 19 tanks and retreated down the ridge.
 <img
-src="images/uncle-les-allen-in-op-totalize/image_22.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_25.jpeg"
 style="width:6.5in;height:4.01042in" />
 
 The Royals C Company then crested the Ridge and the German Army rose
@@ -465,7 +494,7 @@ Spring. The Black Watch were the hardest hit with 112 killed, 119
 wounded and 82 taken prisoner.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_23.png"
+src="images/uncle-les-allen-in-op-totalize/image_26.png"
 style="width:6.5in;height:4.72639in"
 alt="David O&#39;Keeffe Seven Days In Hell " />
 
@@ -479,7 +508,7 @@ people of Saint‑Martin‑de‑Fontenay who supported the project, secured
 the site, and helped fund construction.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_24.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_27.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Hill 67, part of Verrieres Ridge, was taken by the Calgary Highlanders
@@ -488,7 +517,7 @@ Historian Terry Copp was a Director of the Foundation and provided the
 histography for the project.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_25.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_28.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 On the approach to the memorial there are the crests of all of the
@@ -497,20 +526,20 @@ and tank regiments as some of the less celebrated ones including the
 Royal Canadian Ordinance Corps Mobile Laundry and Bath Unit.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_26.png"
+src="images/uncle-les-allen-in-op-totalize/image_29.png"
 style="width:6.5in;height:2.97639in" />
 
 The Royal Regiment of Canada plaque.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_27.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_30.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 As well, there are very detailed information boards, with maps of all
 phases of the advance to Falaise.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_28.png"
+src="images/uncle-les-allen-in-op-totalize/image_31.png"
 style="width:6.5in;height:4.33542in" />\
 I like the presentation of the maps, showing the progress from OPs
 Atlantic – Spring – Totalize – Tractable. You may not be able to tell
@@ -518,14 +547,14 @@ from my photos, but all the maps have the same extent and scale so you
 can understand the progress of each operation.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_29.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_32.jpeg"
 style="width:6.5in;height:2.16042in" />
 
 There are also plaques describing individual unit actions throughout the
 battle.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_30.png"
+src="images/uncle-les-allen-in-op-totalize/image_33.png"
 style="width:6.5in;height:4.33542in" />
 
 There is a well-deserved tribute to the Artillery. They played a key
@@ -534,13 +563,13 @@ are not in the front lines are seldom honoured or even included on maps.
 The 25-pounder gun was the cornerstone of the artillery in Normandy.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_31.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_34.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The list of all the Artillery Units that operated in Normandy.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_32.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_35.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The back of the memorial commemorates the 463 gunners killed in Normandy
@@ -548,20 +577,20 @@ and provides a quick tutorial how the guns calculate the location of
 their rounds.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_33.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_36.jpeg"
 style="width:6.5in;height:3.36528in" />
 
 The view from the memorial looking south to St Martin and St Andre.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_34.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_37.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 A view of Verrieres Ridge where the Royals advanced and the Black Watch
 of Canada got decimated.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_35.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_38.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The Hill 67 Memorial is a modern, accessible memorial with great views,
@@ -588,7 +617,7 @@ push by the Canadian 4<sup>th</sup> Armoured Division and the
 ground surrounding Falaise.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_36.png"
+src="images/uncle-les-allen-in-op-totalize/image_39.png"
 style="width:5.44653in;height:9in" />
 
 ### Kangaroos
@@ -602,7 +631,7 @@ and had recently converted to Sextons that used the same ammunition as
 the towed 25 pounder guns. The Original M7 Priest.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_37.png"
+src="images/uncle-les-allen-in-op-totalize/image_40.png"
 style="width:6.5in;height:5.83472in" />
 
 Through a massive effort by Canadian and British Engineers, 78 Kangaroos
@@ -611,7 +640,7 @@ overhauled the engine and drive trains to ensure the vehicles were
 reliable. The converted Kangaroos.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_38.png"
+src="images/uncle-les-allen-in-op-totalize/image_41.png"
 style="width:6.5in;height:5.84097in" />
 
 Halftracks were rushed over from the UK for the remaining infantry
@@ -626,7 +655,7 @@ initial runs, 347 bombers did not drop their loads for fear of hitting
 the troops on the ground.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_39.png"
+src="images/uncle-les-allen-in-op-totalize/image_42.png"
 style="width:6.5in;height:5.63611in" />
 
 At 2345, the 700-gun artillery barrage commenced, the largest
@@ -649,7 +678,7 @@ appearance and feared it would silhouette their tanks. It was
 universally referred to as Monty’s Moonlight.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_40.png"
+src="images/uncle-les-allen-in-op-totalize/image_43.png"
 style="width:6.5in;height:3.67917in" />
 
 The Crab Flail tanks led the way, operating like snowplows on a 4-lane
@@ -659,13 +688,13 @@ infantry, self-propelled M-10 anti-tank vehicles, towed 25 lb artillery
 guns and Engineer battalions.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_41.png"
+src="images/uncle-les-allen-in-op-totalize/image_44.png"
 style="width:6.5in;height:7.62431in" />
 
 This is what the column looked like prior to starting off.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_42.png"
+src="images/uncle-les-allen-in-op-totalize/image_45.png"
 style="width:6.5in;height:4.17083in" />
 
 The dust kicked up by the Flail tanks and the armoured columns meant the
@@ -675,7 +704,7 @@ guidance assistance, a number of vehicles went off course, ran into each
 other or got stuck in bomb craters.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_43.png"
+src="images/uncle-les-allen-in-op-totalize/image_46.png"
 style="width:6.5in;height:5.51597in" />
 
 The attack was very successful and broke through the German Lines in
@@ -705,7 +734,7 @@ They were supposed to go to the dispersal point, dismount and take their
 individual objectives.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_44.png"
+src="images/uncle-les-allen-in-op-totalize/image_47.png"
 style="width:5.56389in;height:9in" />
 
 At 0300 hrs, the remainder of our column while somewhat scattered at
@@ -716,7 +745,7 @@ tanks, and our column eventually crossed the tracks about a mile to the
 north. The original plan.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_45.png"
+src="images/uncle-les-allen-in-op-totalize/image_48.png"
 style="width:6.5in;height:4.98056in" />
 
 By 0430 hrs the Battalion less "B" Coy and some elements of "C" Coy was
@@ -727,7 +756,7 @@ for prompt action in order to reach the objective before daylight
 necessitated considerable changes in our plan. Change of plan.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_46.png"
+src="images/uncle-les-allen-in-op-totalize/image_49.png"
 style="width:6.5in;height:5.44236in" />
 
 It was of paramount importance that the dense concentration of vehicles
@@ -755,7 +784,7 @@ Very flat land with no cover. I thought it was very appropriate that
 poppies dotted the fields.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_47.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_50.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 ### German Counterattack
@@ -775,7 +804,7 @@ wounded. This is most likely where Les Allen was wounded getting hit by
 shrapnel in his right shoulder. German counterattack.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_48.png"
+src="images/uncle-les-allen-in-op-totalize/image_51.png"
 style="width:6.5in;height:5.72986in" />
 
 After the attack the Royals looked back from Hill 122 and were
@@ -808,7 +837,7 @@ never stop, get through and gain an open field of fire. Wittmann was
 leading his troops to a kill zone.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_49.png"
+src="images/uncle-les-allen-in-op-totalize/image_52.png"
 style="width:6.11458in;height:8.375in" />
 
 The Sherbrooke Fusilier tanks were to the West and “A” Squadron
@@ -817,7 +846,7 @@ hit and exploded, blowing off the turret. One of his troops said the
 shot came from the right so would have been from the Yeomanry.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_50.png"
+src="images/uncle-les-allen-in-op-totalize/image_53.png"
 style="width:6.5in;height:3.12569in" />
 
 This has been the accepted story for many years but a report from a
@@ -854,7 +883,7 @@ visibility at the targets. As seen below, the bulk of the bombing did
 not hit the intended targets.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_51.png"
+src="images/uncle-les-allen-in-op-totalize/image_54.png"
 style="width:5.99097in;height:9in" />
 
 The second bombing wave, starting at 1330 had to contend with haze as
@@ -899,7 +928,7 @@ Private Hackett 18 Canadian Field Ambulance providing a drink to a
 wounded soldier.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_52.png"
+src="images/uncle-les-allen-in-op-totalize/image_55.png"
 style="width:6.5in;height:5.15764in" />
 
 ## 18 Canadian Field Ambulance
@@ -974,7 +1003,7 @@ the war's end in 1946, after which preparations began for its handover
 to civilian use.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_53.png"
+src="images/uncle-les-allen-in-op-totalize/image_56.png"
 style="width:6.5in;height:3.89097in" />
 
 ## 23 Canadian General Hospital Leavesden
@@ -992,7 +1021,7 @@ too familiar sight in the streets of metropolitan London during those
 times.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_54.png"
+src="images/uncle-les-allen-in-op-totalize/image_57.png"
 style="width:6.5in;height:4.875in" />
 
 During World War II, the Leavesden site was requisitioned by the
@@ -1015,7 +1044,7 @@ diagnostic care, convalescence and rehabilitation care and conducted
 Medical Boards to determine the long-term status of the patients.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_55.png"
+src="images/uncle-les-allen-in-op-totalize/image_58.png"
 style="width:4.50384in;height:3.78943in" />
 
 ## Post Hospital Release
@@ -1109,7 +1138,7 @@ being hauled by Les’ truck with my father Doug Allen in the foreground
 and Mel Hummel sitting on the log.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_56.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_59.jpg"
 style="width:6.5in;height:6.58472in" />
 
 Les and Jean enjoyed their life back in Phelps Township and decided to
@@ -1128,7 +1157,7 @@ happiness. The Memorial Park was located on the forks of the North River
 and was enjoyed by all. Photo of Jean.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_57.png"
+src="images/uncle-les-allen-in-op-totalize/image_60.png"
 style="width:4.85417in;height:6.25in" />
 
 The ladies of the WI held penny sales, and dinners and just about
@@ -1163,7 +1192,7 @@ apartment just up the street from the mill. Mr and Mrs MacDonald with
 Mac and Kenny.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_58.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_61.jpg"
 style="width:6.5in;height:4.81806in" />
 
 ## RCAF
@@ -1183,7 +1212,7 @@ I was inducted into the Canadian Forces, 414 EW Squadron returned to
 North Bay.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_59.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_62.jpeg"
 style="width:5.25352in;height:4.56306in" />
 
 The CF101 Voodoo was sold to Canada to provide an air defence capability
@@ -1195,21 +1224,21 @@ all replaced by the CF18. The Voodoo in the background with a CF104 in
 the foreground.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_60.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_63.jpeg"
 style="width:6.5in;height:3.62778in" />
 
 A photo of Les batting while playing for the RCAF team. My father, Doug
 Allen, is catching.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_61.png"
+src="images/uncle-les-allen-in-op-totalize/image_64.png"
 style="width:6.5in;height:7.13403in" />
 
 Les was promoted to Corporal in Oct 1954 and Sergeant in Apr 1966. Their
 third son Rob was born in 1958.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_62.JPG"
+src="images/uncle-les-allen-in-op-totalize/image_65.JPG"
 style="width:3.02083in;height:5.19792in" />
 
 While in Centralia in 1953 Les was selected for the Queen’s Coronation
@@ -1221,26 +1250,26 @@ while 320 lined the route in the area near Canada House. In total, there
 were some 700 active members of the Canadian military involved.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_63.png"
+src="images/uncle-les-allen-in-op-totalize/image_66.png"
 style="width:5.375in;height:4.03125in" />
 
 The Coronation carriage the Canadian Honour Guard.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_64.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_67.jpg"
 style="width:6.5in;height:3.22708in" />
 
 A photo of the RCAF march past. Les is second from the right in the
 front rank.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_65.png"
+src="images/uncle-les-allen-in-op-totalize/image_68.png"
 style="width:6.5in;height:4.74931in" />
 
 This is the route they marched in London.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_66.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_69.jpg"
 style="width:6.5in;height:5.2in" />
 
 Tragically, Jean passed away in Jun 1959 at the young age of 33. Les
@@ -1258,13 +1287,13 @@ but 52 Canadian. There are 2714 Army members, 78 Air Force, 3 Navy and
 78 Unknowns.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_67.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_70.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 A dedicated gardener keeping the grounds in top shape.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_68.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_71.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 When I visit a cemetery, I usually try to photograph all the headstones
@@ -1279,17 +1308,17 @@ causing a manpower shortage that would plague Canadians for the rest of
 the war.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_69.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_72.jpeg"
 style="width:6.5in;height:3.49583in" />
 
 As always, the grounds are immaculately kept and full of colour.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_70.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_73.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_71.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_74.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 ## Typhoon Pilots
@@ -1308,7 +1337,7 @@ operating out of B9 Airfield at Lantheuil, just south of Juno Beach.
 This allowed the Typhoons to be at the front lines in 15 minutes.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_72.png"
+src="images/uncle-les-allen-in-op-totalize/image_75.png"
 style="width:6.5in;height:4.93472in" />\
 Lantheuil Airfield was marked out on 11 Jun 1944 and construction was
 started the next day. The runway was complete on 22 Jun, and 143 Wing
@@ -1316,7 +1345,7 @@ arrived on 27 June. Due to the muddy airfield, it was decided to track
 the Runway on 05 Jul, and the work completed by 8 Jul.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_73.jpg"
+src="images/uncle-les-allen-in-op-totalize/image_76.jpg"
 style="width:6.5in;height:4.76111in" />
 
 ### J11316 Flight Lieutenant Theodore Bugg 
@@ -1344,14 +1373,14 @@ very close to the Bridge now known as Pont des Canadians. The point
 indicates his temporary burial site.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_74.png"
+src="images/uncle-les-allen-in-op-totalize/image_77.png"
 style="width:6.5in;height:4.38264in" />
 
 In Jul 1946, his remains were reinterred in Bretteville-sur-Laize
 cemetery.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_75.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_78.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 His epitaph reads:
@@ -1367,7 +1396,7 @@ Canadiens. There is a plaque to the 4 Typhoon pilots, all RCAF Members,
 killed on 12 Aug 1944 trying to take out the Bridge.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_76.png"
+src="images/uncle-les-allen-in-op-totalize/image_79.png"
 style="width:6.5in;height:5.43194in" />
 
 Once I saw this, I had to look at the other pilots as well.
@@ -1384,7 +1413,7 @@ by Canadian Ground troops and was temporarily buried close to where he
 was found. He was later reinterred in Bretteville-sur-Laize Cemetery.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_77.png"
+src="images/uncle-les-allen-in-op-totalize/image_80.png"
 style="width:6.5in;height:3.69931in" />
 
 Ernest enlisted on 5 Oct 1939 in Edmonton, AB and initially served as a
@@ -1412,7 +1441,7 @@ wings on 9 Jul 1943 and went overseas on 9 Jan 1944. His recruitment
 picture shows how young he looked.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_78.png"
+src="images/uncle-les-allen-in-op-totalize/image_81.png"
 style="width:5.86385in;height:6.4367in" />
 
 Bretteville-sur-Laize Cemetery was established in 1944 and it is likely
@@ -1422,7 +1451,7 @@ been renumbered but his remains had not been moved. A picture of his
 original grave marker.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_79.png"
+src="images/uncle-les-allen-in-op-totalize/image_82.png"
 style="width:4.44736in;height:7.38449in" />
 
 ### J22034 Flying Officer Ronald Olaf Moen
@@ -1449,7 +1478,7 @@ artist who was at the centre of any squadron pranks.
 Ronald’s crash site.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_80.png"
+src="images/uncle-les-allen-in-op-totalize/image_83.png"
 style="width:6.5in;height:3.46389in" />
 
 Flying Officer Moen has no known grave and is commemorated on Panel 247
@@ -1464,13 +1493,13 @@ been overrun but whose airmen continued to fight in the ranks of the
 Royal Air Force.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_81.jpeg"
+src="images/uncle-les-allen-in-op-totalize/image_84.jpeg"
 style="width:5.20625in;height:3.08472in" />
 
 Ronald’s photo.
 
 <img
-src="images/uncle-les-allen-in-op-totalize/image_82.png"
+src="images/uncle-les-allen-in-op-totalize/image_85.png"
 style="width:5.93676in;height:5.98883in" />
 
 Flying Officer Moen enlisted in Saskatoon SK on 24 Nov 1941 at the age
