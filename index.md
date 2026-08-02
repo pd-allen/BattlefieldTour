@@ -124,8 +124,7 @@ Posts tagged with **WWII**
 # Travel
 Posts tagged with **Travel**
 ## Posts
-
-- [Gdansk   The First Shots of the Second World War](/posts/gdansk---the-first-shots-of-the-second-world-war)
+- [Gdansk - The First Shots of the Second World War](/posts/gdansk---the-first-shots-of-the-second-world-war)
 - [Rimini Ravenna and Bologna](/posts/Rimini-Ravenna-and-Bologna)
 - [Tiny Country of San Marino](/posts/Tiny-Country-of-San-Marino)
 - [HistoricMalta](/posts/HistoricMalta)
