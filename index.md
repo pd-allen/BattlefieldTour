@@ -73,6 +73,7 @@ Posts tagged with **WWI**.
 Posts tagged with **WWII**
 
 ## Posts
+- [Gdansk   The First Shots of the Second World War](/posts/gdansk---the-first-shots-of-the-second-world-war)
 - [Uncle Les Allen in Op Totalize](/posts/uncle-les-allen-in-op-totalize)
 - [D Day Sword Beach](/posts/d-day-sword-beach)
 - [Normandy Defensive Installations](/posts/Normandy-Defensive-Installations)

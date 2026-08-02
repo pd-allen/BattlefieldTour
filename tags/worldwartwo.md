@@ -12,6 +12,13 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} Gdansk   The First Shots of the Second World War
+:link: /posts/gdansk---the-first-shots-of-the-second-world-war
+:header: <img src="../posts/images/gdansk---the-first-shots-of-the-second-world-war/image_0.jpeg" alt="thumbnail" />
+History of Gdansk where the First Shots of the Second World War Were Fired.
+Post Date 2027-08-02
+:::
+
 ::: {card} Uncle Les Allen in Op Totalize
 :link: /posts/uncle-les-allen-in-op-totalize
 :header: <img src="../posts/images/uncle-les-allen-in-op-totalize/image_0.jpg" alt="thumbnail" />
