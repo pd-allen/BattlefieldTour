@@ -18,6 +18,7 @@ description: A blog about family and friends experiences in the two wars.
 Posts tagged with **WWI**.
 
 ## Posts
+- [100th Tour Update](/posts/100th-tour-update)
 - [Following the Caribou](/posts/following-the-caribou)
 - [Private Wallace Pike  - Royal Newfoundland Regiment](/posts/private-wallace-pike-royal-newfoundland-regiment)
 - [Corporal William Sullivan - Royal Newfoundland Regiment](/posts/corporal-william-sullivan-royal-newfoundland-regiment)
@@ -73,6 +74,7 @@ Posts tagged with **WWI**.
 Posts tagged with **WWII**
 
 ## Posts
+- [100th Tour Update](/posts/100th-tour-update)
 - [Gdansk   The First Shots of the Second World War](/posts/gdansk---the-first-shots-of-the-second-world-war)
 - [Uncle Les Allen in Op Totalize](/posts/uncle-les-allen-in-op-totalize)
 - [D Day Sword Beach](/posts/d-day-sword-beach)
@@ -122,6 +124,7 @@ Posts tagged with **WWII**
 - [Juno Beach](/posts/juno-beach)
 
 # Travel
+- [100th Tour Update](/posts/100th-tour-update)
 Posts tagged with **Travel**
 ## Posts
 - [Gdansk - The First Shots of the Second World War](/posts/gdansk---the-first-shots-of-the-second-world-war)
