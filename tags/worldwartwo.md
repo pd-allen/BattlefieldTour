@@ -12,11 +12,18 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} 100th Tour Update
+:link: /posts/100th-tour-update
+:header: <img src="../posts/images/100th-tour-update/image_0.png" alt="thumbnail" />
+Retrospective of 100 posts.
+Post Date 2026-08-18
+
+:::
 ::: {card} Gdansk   The First Shots of the Second World War
 :link: /posts/gdansk---the-first-shots-of-the-second-world-war
 :header: <img src="../posts/images/gdansk---the-first-shots-of-the-second-world-war/image_0.jpeg" alt="thumbnail" />
 History of Gdansk where the First Shots of the Second World War Were Fired.
-Post Date 2027-08-02
+Post Date 2026-08-02
 :::
 
 ::: {card} Uncle Les Allen in Op Totalize

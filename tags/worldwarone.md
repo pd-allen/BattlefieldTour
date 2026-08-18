@@ -9,6 +9,12 @@ Posts tagged with **WWI**.
 
 ## Posts
 
+::: {card} 100th Tour Update
+:link: /posts/100th-tour-update
+:header: <img src="../posts/images/100th-tour-update/image_0.png" alt="thumbnail" />
+Retrospective of 100 posts.
+Post Date 2026-08-18
+
 ::: {card}Following The Caribou
 :link:  /posts/following-the-caribou
 :header: <img src="../posts/images/following-the-caribou/image_0.jpg" alt="thumbnail" />
