@@ -12,6 +12,13 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+
+::: {card} Venray Burial Rededication
+:link: /posts/venray-burial-rededication
+:header: <img src="../posts/images/venray-burial-rededication/image_0.png" alt="thumbnail" />
+Research and details regarding Venray Burial Rededication.
+:::
+
 ::: {card} 100th Tour Update
 :link: /posts/100th-tour-update
 :header: <img src="../posts/images/100th-tour-update/image_0.png" alt="thumbnail" />

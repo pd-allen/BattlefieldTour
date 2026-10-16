@@ -74,6 +74,7 @@ Posts tagged with **WWI**.
 Posts tagged with **WWII**
 
 ## Posts
+- [Venray Burial Rededication](/posts/venray-burial-rededication)
 - [100th Tour Update](/posts/100th-tour-update)
 - [Gdansk   The First Shots of the Second World War](/posts/gdansk---the-first-shots-of-the-second-world-war)
 - [Uncle Les Allen in Op Totalize](/posts/uncle-les-allen-in-op-totalize)
