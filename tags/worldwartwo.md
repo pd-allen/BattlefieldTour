@@ -12,6 +12,11 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} Bomber Command Casualties Venray Cemetery
+:link: /posts/bomber-command-casualties-venray-cemetery
+:header: <img src="../posts/images/bomber-command-casualties-venray-cemetery/image_0.png" alt="thumbnail" />
+Research and details regarding Bomber Command Casualties Venray Cemetery.
+:::
 
 ::: {card} Venray Burial Rededication
 :link: /posts/venray-burial-rededication
