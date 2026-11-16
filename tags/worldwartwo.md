@@ -12,16 +12,25 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} Liberation March November 2026
+:link: /posts/liberation-march-november-2026
+:header: <img src="../posts/images/liberation-march-november-2026/image_0.png" alt="thumbnail" />
+Research and details regarding Liberation March November 2026.
+Post Date 2026-11-16
+:::
+
 ::: {card} Bomber Command Casualties Venray Cemetery
 :link: /posts/bomber-command-casualties-venray-cemetery
 :header: <img src="../posts/images/bomber-command-casualties-venray-cemetery/image_0.png" alt="thumbnail" />
 Research and details regarding Bomber Command Casualties Venray Cemetery.
+Post Date 2026-10-29
 :::
 
 ::: {card} Venray Burial Rededication
 :link: /posts/venray-burial-rededication
 :header: <img src="../posts/images/venray-burial-rededication/image_0.png" alt="thumbnail" />
 Research and details regarding Venray Burial Rededication.
+Post Date 2026-10-16
 :::
 
 ::: {card} 100th Tour Update
