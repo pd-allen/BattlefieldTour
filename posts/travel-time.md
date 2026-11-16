@@ -10,7 +10,7 @@ Almost time to embark on the North West Europe Canadian Battlefield Tour present
 
 ![](images/travel-time/image_0.jpg)
 
-[Details](#viewer-14fcc)
+[Details]
 
 * [First World War](https://www.paulsbattlefieldtours.com/blog/categories/first-world-war)
 * [Second World War](https://www.paulsbattlefieldtours.com/blog/categories/second-world-war)

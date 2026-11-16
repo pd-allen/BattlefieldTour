@@ -32,7 +32,7 @@ Christopher’s head stone is located in section VII Row A1.
 
 Christopher’s Marker is the first one (with the flags).
 
-![](images/adegem-canadian-war-cemetery/image_5.png)
+![](images/adegem-canadian-war-cemetery/image_5.jpg)
 
 38 of his colleagues from the Canadian Scottish Regiment are buried here, including 4 killed the same day as Christopher.
 
