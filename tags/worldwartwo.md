@@ -15,36 +15,46 @@ Posts tagged with **WW2**.
 ::: {card} Liberation March November 2026
 :link: /posts/liberation-march-november-2026
 :header: <img src="../posts/images/liberation-march-november-2026/image_0.png" alt="thumbnail" />
-Research and details regarding Liberation March November 2026.
+Post Date 2026-11-16
+
+Summary of the Fourth and Final Canadian Liberation March that we will attend, held in November 2026.
 Post Date 2026-11-16
 :::
 
 ::: {card} Bomber Command Casualties Venray Cemetery
 :link: /posts/bomber-command-casualties-venray-cemetery
 :header: <img src="../posts/images/bomber-command-casualties-venray-cemetery/image_0.png" alt="thumbnail" />
-Research and details regarding Bomber Command Casualties Venray Cemetery.
 Post Date 2026-10-29
+
+Research and details regarding Bomber Crew buried in Venray Cemetery.
+
 :::
 
 ::: {card} Venray Burial Rededication
 :link: /posts/venray-burial-rededication
 :header: <img src="../posts/images/venray-burial-rededication/image_0.png" alt="thumbnail" />
-Research and details regarding Venray Burial Rededication.
 Post Date 2026-10-16
+
+Visiting Venray Military Cemetery for the Burial Rededication of a Bomber Crew.
+
 :::
 
 ::: {card} 100th Tour Update
 :link: /posts/100th-tour-update
 :header: <img src="../posts/images/100th-tour-update/image_0.png" alt="thumbnail" />
-Retrospective of 100 posts.
 Post Date 2026-08-18
+
+Retrospective of 100 posts, looking back on three years of travels.
+
 
 :::
 ::: {card} Gdansk   The First Shots of the Second World War
 :link: /posts/gdansk---the-first-shots-of-the-second-world-war
 :header: <img src="../posts/images/gdansk---the-first-shots-of-the-second-world-war/image_0.jpeg" alt="thumbnail" />
-History of Gdansk where the First Shots of the Second World War Were Fired.
 Post Date 2026-08-02
+
+History of Gdansk where the First Shots of the Second World War Were Fired.
+
 :::
 
 ::: {card} Uncle Les Allen in Op Totalize
