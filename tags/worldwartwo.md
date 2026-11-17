@@ -18,7 +18,7 @@ Posts tagged with **WW2**.
 Post Date 2026-11-16
 
 Summary of the Fourth and Final Canadian Liberation March that we will attend, held in November 2026.
-Post Date 2026-11-16
+
 :::
 
 ::: {card} Bomber Command Casualties Venray Cemetery
