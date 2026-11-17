@@ -386,7 +386,7 @@ On a glorious morning, we visited the Vimy Memorial atop Hill 145 (145 m above s
 
 ::: {card}Corporal Percy Fowler, 1 June 1894 – 18 August 1916
 :link:  /posts/corporal-percy-fowler-1-june-1894-18-august-1916
-:header: <img src="../posts/corporal-percy-fowler-1-june-1894-18-august-1916/PercyFowler.jpg" alt="thumbnail" />
+:header: <img src="../posts/images/corporal-percy-fowler-1-june-1894-18-august-1916/PercyFowler.jpg" alt="thumbnail" />
 Post Date 2023-09-14
 
 I was able to visit Bob Drummond’s uncle Percy Fowler at the Theipval Memorial, and asked Bob to write his story....
